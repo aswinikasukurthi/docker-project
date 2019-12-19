@@ -32,3 +32,29 @@ git remote -v
 git remote add origin https://github.com/aswinikasukurthi/nexus-project.git
 git remote -v
 git push -f origin master
+sudo apt-get update
+jenkins
+fjava --version
+java version
+java --version
+java - version
+java -version
+git
+git status
+git init
+touch aswini
+ls
+git add .
+ls
+git status
+git commit -m "commited by maven"
+git remote add origin https://github.com/aswinikasukurthi/nexus-project.git
+git push -f origin master
+sudo apt-get update
+java -version
+jenkins -version
+jenkins 
+jenkins
+sudo apt-get update
+java
+sudo su
